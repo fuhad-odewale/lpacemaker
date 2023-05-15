@@ -38,3 +38,15 @@ p {
     padding: 8px;
 }
 
+
+@media screen and (max-width: 480px) {
+    * {
+        font-size: 12px;
+    }
+
+    table{
+        width: 350px;
+        margin: auto; 
+        margin-top: 30px;
+    }
+}
