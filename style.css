@@ -49,4 +49,8 @@ p {
         margin: auto; 
         margin-top: 30px;
     }
+
+    img {
+        height: 70px;
+    }
 }
